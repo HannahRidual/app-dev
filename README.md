@@ -2,7 +2,7 @@
 
 # Four Sisters and a Wedding
 
-** Genre: ** Drama/Comedy
+**Genre:** Drama/Comedy
 
 ### About the Movie
 Four Sisters and a Wedding is a Filipino movie about four sisters who reunite to stop their younger brother from getting married. As they spend time together, they face family problems, misunderstandings, and personal struggles.
@@ -19,4 +19,4 @@ Bakit parang kasalanan ko? Parang kasalanan ko.
 ### Rating
 10/10
 
-**Created By: ** Hannah Marrielle RIdual
+**Created By:** Hannah Marrielle RIdual
